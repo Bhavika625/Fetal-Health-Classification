@@ -20,3 +20,6 @@ Results
 99%+ Accuracy with minimal training data
 
 Efficient model training & deploymen
+
+
+https://ieeexplore.ieee.org/document/10833651?source=authoralert 
